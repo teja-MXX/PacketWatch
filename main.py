@@ -13,7 +13,6 @@ online = {}
 def pings(host):
     resp = ping(host)
     if resp:
-        print(socket.gethostname(host))
         online[host] = {}
 
 print(Fore.GREEN+"""\033[1m 
