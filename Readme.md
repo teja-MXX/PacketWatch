@@ -14,4 +14,6 @@ Email     -  teja.mxx@gmail.com
 Description - Monitor your Wifi if you experience slow speed and block heavy users . Describing
 the usage of the tool takes time . SO I'll skip this . 
 
+sudo systemctl enable NetworkManager.service
+
 ###################################################################################################

@@ -15,7 +15,7 @@ def getArpTable():
 
 def printArpTable():
     ipMAC = getArpTable()
-    print("ARP Table ")
+    print(" ARP Table ")
     tab = []
     for IP,MAC in ipMAC.items():
         tab.append([IP, MAC])
