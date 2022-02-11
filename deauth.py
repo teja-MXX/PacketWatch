@@ -1,4 +1,4 @@
-# This file is for deauth attack on all connected devices so that when the connect again
+# This file is for deauth attack on all connected devices so that when they connect again
 # we can capture the DHCP Request Packet sent by them to the Router which has Host Parameter Field
 # used for identifying the Device Model Name [ ex -  Oppo A31, Galaxy M50 , iPhone 7]
 
